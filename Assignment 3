@@ -1,0 +1,8 @@
+Renders
+:text
+:action
+:partial
+:xml
+
+redirect_to:home
+redirect_to:controller => 
